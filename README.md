@@ -1,0 +1,2 @@
+# Demand_Management_Industrial_Analytics_Project
+HFU 6th Semester Industrial_Analytics project
